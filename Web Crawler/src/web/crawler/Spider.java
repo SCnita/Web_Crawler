@@ -7,7 +7,7 @@ package web.crawler;
 import java.util.*;
 /**
  *
- * @author Shiv
+ * @author Suraj chaudhary
  */
 public class Spider {
         private static final int MAX_PAGES_TO_SEARCH=20;
