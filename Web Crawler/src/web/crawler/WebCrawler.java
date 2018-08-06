@@ -7,7 +7,7 @@ package web.crawler;
 
 /**
  *
- * @author Shiv
+ * @author Suraj
  */
 public class WebCrawler {
 
